@@ -1,0 +1,7 @@
+pip install bcrypt
+
+pip install django[argon2]
+
+pip install pillow 
+
+pip install pillow --global-option="build_ext" --global-option="--disable-jpeg"
